@@ -134,7 +134,8 @@ img.review-image {
 }
 
 .right{
-    width: 50%;
+    margin-left: 10%;
+    width: 40%;
     line-height: 2;
 }
 
